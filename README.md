@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Snehlata826
-- 👀 I’m interested in Data Science field.
+This is a trained model of data using pytorch.
+
   
   
 
