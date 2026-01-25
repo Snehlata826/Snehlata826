@@ -1,9 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Snehlata Kumari</h1>
 
 <p align="center">
   🚀 Learning • Building • Exploring | Data Science & AI
-
 </p>
 
 <p align="center">
@@ -12,6 +10,13 @@ Building data-driven AI solutions with real-world impact
 </span>
 
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Snehlata826&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+
+
 
 ---
 
