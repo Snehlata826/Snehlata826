@@ -59,21 +59,23 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 ---
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Snehlata826&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehlata826&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Snehlata826&theme=radical&hide_border=true" />
+</p>
+
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/users/Snehlata826/contributions" alt="Snehlata Kumari Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehlata826&theme=radical&hide_border=true" />
 </p>
-
 
 ## 🧠 Languages & Tech Usage
 
