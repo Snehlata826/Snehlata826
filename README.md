@@ -66,6 +66,14 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
 ---
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/users/Snehlata826/contributions" alt="Snehlata Kumari Contribution Graph">
+</p>
+
 
 ## 🧠 Languages & Tech Usage
 
