@@ -65,24 +65,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=snehlata-kumari&show_icons=true&theme=github_dark&hide_border=true" />
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehlata-kumari&theme=github-dark" />
-</p>
-
----
-
 ⭐ *Thank you for visiting my profile!*
 ---
 📌 *Open to internships, hackathons, and collaborative AI projects.*
