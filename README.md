@@ -1,35 +1,28 @@
 <h1 align="center">Hi 👋, I'm Snehlata Kumari</h1>
 
 <p align="center">
-  🚀 Learning • Building • Exploring | Data Science & AI
+  🚀 Learning • Building • Exploring | <b>Data Science & AI</b>
 </p>
 
 <p align="center">
-  <span style="color:#00e5ff;">
-Building data-driven AI solutions with real-world impact
-</span>
-
+  Building data-driven AI solutions with real-world impact
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Snehlata826&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-
-
-
 ---
 
 ## 👩‍💻 About Me
-<img align="right" alt="Coding Girl" width="420"
+
+<img align="right" alt="Coding Girl" width="380"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-
--- 🌱 Currently exploring **LLMs and Generative AI**
+- 🌱 Currently exploring **LLMs and Generative AI**
 - 🎯 Interested in building **scalable, real-world AI systems**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, Conversational AI, and RAG**
 - 📫 Reach me at **kumarisnehlata2005@gmail.com**
-
 
 ---
 
@@ -65,6 +58,40 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
 
-⭐ *Thank you for visiting my profile!*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Snehlata826&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehlata826&theme=radical&hide_border=true" width="48%" />
+</p>
+
 ---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehlata826&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snehlata826&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🤖 AI / ML Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-Generative%20AI-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Pipelines-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-MLflow%20%7C%20Deployment-success?style=for-the-badge" />
+</p>
+
+---
+
+⭐ *Thank you for visiting my profile!*  
 📌 *Open to internships, hackathons, and collaborative AI projects.*
