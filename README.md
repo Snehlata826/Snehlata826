@@ -2,9 +2,11 @@
 <h3 align="center">
 AI/ML Engineer &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; LLMs &nbsp;|&nbsp; Generative AI &nbsp;|&nbsp; RAG &nbsp;|&nbsp; MLOps
 </h3>
-<p align="center">Building scalable AI systems with real-world impact.</p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Snehlata826&label=Profile%20Views&color=0e75b6&style=flat" />
+  Building scalable AI systems with real-world impact.<br/>
+  <a href="https://snehlata826.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -38,6 +40,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-Deep%20Learning-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLMs-RAG-orange?style=for-the-badge"/>
+   <img src="https://img.shields.io/badge/LangChain-3776AB?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-MLOps-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-ff69b4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FastAPI-Docker-informational?style=for-the-badge"/>
