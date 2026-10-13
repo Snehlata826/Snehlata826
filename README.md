@@ -20,7 +20,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 🎓 Final Year B.Tech – Computer Science (AI & ML Specialization)  
 🏅 Herbalife Scholar '25 &nbsp;|&nbsp; EcoHack Runner-Up '26 &nbsp;|&nbsp; SheFi Scholar (Season 16)  
 🔬 Research Intern – IIT Roorkee(2026) and  NIT Bhopal (2025)
-    Published research paper named InSign Dataset : A Benchmarking for Traffic Sign Recognition and detection autonomous vehicles. 
+    Published research paper named InSign Dataset : A Benchmarking for Traffic Sign Recognition and Detection for Autonomous Vehicles. 
 
 - Building **production-grade AI systems** across Computer Vision and LLMs  
 - Developed a **Vision Transformer (ViT) foundation model** on Indian satellite imagery (Sentinel-2) achieving **93.6% accuracy**  
